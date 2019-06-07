@@ -2,7 +2,15 @@
 
 API calls with jQuery and testing out Docker
 
-## Instructions
+## Docker Image
+
+~~~
+docker pull rossmassey/todo-list
+~~~
+
+## Installation
+
+Clone this repository and run the following:
 
 ### Start
 
