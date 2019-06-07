@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Ross",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0",
